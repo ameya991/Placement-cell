@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/developeramit14jan/PlacementCell.git"
+    "url": "https://github.com/ameya991/Placement-cell"
   },
   "author": "Ameya Tadvalkar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/developeramit14jan/PlacementCell/issues"
+    "url": "https://github.com/ameya991/Placement-cell/issues"
   },
-  "homepage": "https://github.com/developeramit14jan/PlacementCell#readme",
+  "homepage": "https://github.com/ameya991/Placement-cell",
   "dependencies": {
     "connect-flash": "^0.1.1",
     "connect-mongo": "^4.6.0",
